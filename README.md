@@ -21,34 +21,83 @@
 
 ## 🧭 Who I Am
 
-```typescript
-const aakashBhakta = {
-  title: "Senior Java Developer / Java Consultant / Backend Engineering Lead",
-  location: "Kolkata, India",
-  currentRole: "Java Backend Lead @ Engage — Virgin Media O2 (via TCS)",
-  experience: "5+ years",
-  stack: {
-    languages: ["Java", "JavaScript"],
-    frameworks: ["Spring Boot", "Spring MVC", "Hibernate", "REST APIs", "Liferay DXP", "Apache Spark"],
-    databases: ["MongoDB", "Cassandra", "MySQL"],
-    cloudAndDevOps: ["AWS", "Jenkins", "GitLab CI/CD", "SonarQube", "Tomcat"],
-    security: ["SailPoint IdentityIQ (IIQ)", "User Access Management (UAM)", "PGP Encryption/Decryption"],
-  },
-  launchedProjects: [
-    "HiddenText — steganography system with custom encryption for secure data hiding",
-    "Building & Selling AI Agents — a practical guide to designing and monetizing AI agents",
-  ],
-  certifications: [
-    "React JS Intermediate (2025)",
-    "Gen AI E1 Certification (2024)",
-    "Certified Ethical Hacker - CEH (2017)",
-    "Software Security Assurance - HiTech (2024)",
-    "Cyber Security Foundation (2024)",
-  ],
-  status: "Leading a team of 5 backend developers, shipping production Java systems",
-  openTo: ["Java Consultant", "Senior Java Developer", "Java Backend Lead"],
-} as const;
-```
+| | |
+|---|---|
+| 🎯 **Title** | Senior Java Developer / Java Consultant / Backend Engineering Lead |
+| 📍 **Location** | Kolkata, India |
+| 💼 **Current Role** | Java Backend Lead @ Engage — Virgin Media O2 (via TCS) |
+| ⏳ **Experience** | 5+ years |
+| ⚡ **Status** | Leading a team of 5 backend developers, shipping production Java systems |
+| 🔍 **Open To** | Java Consultant · Senior Java Developer · Java Backend Lead |
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🧩 Core Stack**
+- Java · Spring Boot · Spring MVC
+- REST APIs · MySQL · MongoDB
+- AWS · PGP · Gitlab · Microservices
+
+</td>
+<td valign="top" width="33%">
+
+**🚀 Launched**
+- HiddenText — Steganography + Encryption
+- AI Agents Guide — Build & Monetize
+
+</td>
+<td valign="top" width="34%">
+
+**🎓 Certifications**
+- React JS Intermediate (2025)
+- Gen AI E1 (2024)
+- Certified Ethical Hacker (2017)
+- Software Security Assurance (2024)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💼 Professional Experience
+
+<details open>
+<summary><b>🏢 Tata Consultancy Services (TCS)</b> — Java Developer | Sep 2023 – Present</summary>
+<br/>
+
+**Java Backend Lead — Engage, Virgin Media O2 (VMO2)** · *Feb 2025 – Present*
+- Own backend architecture, technical design, and delivery for the Engage platform
+- Lead a team of 5 Java developers — code reviews, sprint planning, task breakdown
+- Designed an optimized solution (parallel processing, async scheduling, batching, caching, query optimization) that improved bulk order loading performance **10x+**
+- Standardized Jenkins deployment pipelines, improving release reliability across prod/QA/dev
+- Evaluated AI-driven automation opportunities across the platform with architects and leadership
+
+**Java Consultant — User Access Management (SailPoint IdentityIQ)** · *Nov 2024 – Feb 2025*
+- Delivered Identity Governance & Administration (IGA) solutions on SailPoint IdentityIQ
+- Built secure Java REST integrations between SailPoint and enterprise apps via Web Service Connectors
+- Built a Java PoC for PGP encryption/decryption of sensitive client files, automating onboarding workflows
+
+**Senior Java Developer — Vodafone IoT Platform** · *Sep 2023 – Nov 2024*
+- Designed scalable Spring Boot microservices for IoT device management and telemetry
+- Built REST APIs on MongoDB handling high-volume, low-latency IoT transactions
+- Cut backend API response times from **18s → 5s** via indexing, aggregation, async processing, and AWS scaling
+
+</details>
+
+<details>
+<summary><b>🏢 Infosys Limited</b> — System Engineer, Application Development | Jul 2021 – Jun 2023</summary>
+<br/>
+
+**Aetna / CVS Health — Insurance Platform**
+- Worked across Majesco L&A, ICD, and ICM modules for enterprise insurance applications
+- Built Java backend components integrated with frontend applications
+- Used Cassandra and MySQL for large-scale data persistence
+- Integrated Apache Spark for large-scale real-time data processing
+- Optimized SQL through Java transformers, speeding up large data copy jobs to Cassandra
+
+</details>
 
 <br/>
 
@@ -116,8 +165,8 @@ A practical guide covering the design, build, and monetization strategy for AI a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaktaji&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Aakash's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktaji&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaktaji&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Aakash's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktaji&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
@@ -129,7 +178,7 @@ A practical guide covering the design, build, and monetization strategy for AI a
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaktaji&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhaktaji&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&cache_seconds=86400" alt="GitHub Trophies"/>
 </div>
 
 <br/>
