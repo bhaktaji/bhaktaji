@@ -246,7 +246,7 @@ A biryani shop Android app built for fun: menu, cart and order tracking with off
 
 ## 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhaktaji&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhaktaji&theme=nord)](https://github.com/bhaktaji/github-readme-activity-graph)
 
 ## 🤝 Connect With Me
 
