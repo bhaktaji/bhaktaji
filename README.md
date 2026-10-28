@@ -240,13 +240,9 @@ A biryani shop Android app built for fun: menu, cart and order tracking with off
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bhaktaji&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhaktaji&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&cache_seconds=86400)
+![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=bhaktaji&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400)
 
 </div>
-
-## 📈 Contribution Activity
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhaktaji&theme=nord)](https://github.com/bhaktaji/github-readme-activity-graph)
 
 ## 🤝 Connect With Me
 
